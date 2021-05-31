@@ -1,0 +1,14 @@
+#1.Sequence to Sequence Learning with Neural Networks
+#About the Data:
+          "The dataset we'll be using is the Multi30k dataset. This is a dataset with ~30,000 parallel English, German and French sentences, each with ~12 words per sentence"
+          
+#Step by Step Implementation:
+           1.Imports
+           2.Data Preprocessing using torchtext
+           3.Seq2Seq Model Building
+           4.Assigning Parameters, loss function , optimizers
+           5.Define Training loop:
+           6.Define Evaluation loop:
+           7.Training the Model
+           
+           
